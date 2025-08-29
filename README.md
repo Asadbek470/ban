@@ -1,17 +1,6 @@
 # ban
 ban
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <h1>prestuplenie-i-nakazanie</h1>
-  <p>my project</p>
-  <p>index.html</p>
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -89,9 +78,10 @@ ban
 
   <p><b>5.5</b> Нарушители заносятся в «чёрный список» и больше не смогут пользоваться моими сервисами.<br></p>
   <hr>
-  <p><b>6.0</b> Я оставляю за собой право изменять эти законы в любое время.<br></p>
+
+  <p><b>6.0</b> Доступ к страницам <b>Hacking 2</b> и <b>About Me</b> разрешён только владельцу.  
+  Если чужой пользователь попытается войти или нажать кнопку «Сделать хакерскую атаку», его аккаунт будет <b>заморожен пожизненно</b>.<br></p>
   <hr>
-  <p>© 2025 Asadbek Abdumalikov</p>
-  
+
 </body>
 </html>
